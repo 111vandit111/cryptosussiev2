@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/cryptosussiev2/static/css/main.629a52ff.css",
-    "main.js": "/cryptosussiev2/static/js/main.28b47348.js",
+    "main.js": "/cryptosussiev2/static/js/main.66ac9521.js",
     "static/js/787.404e0b8d.chunk.js": "/cryptosussiev2/static/js/787.404e0b8d.chunk.js",
     "static/media/logo2.png": "/cryptosussiev2/static/media/logo2.e393376f7c2b8e15c9b0.png",
     "static/media/color-sharp.png": "/cryptosussiev2/static/media/color-sharp.bea361cfef80fefc2d1e.png",
@@ -44,11 +44,11 @@
     "static/media/telegram.svg": "/cryptosussiev2/static/media/telegram.c41e7096f193eefe1faf87264090ec08.svg",
     "index.html": "/cryptosussiev2/index.html",
     "main.629a52ff.css.map": "/cryptosussiev2/static/css/main.629a52ff.css.map",
-    "main.28b47348.js.map": "/cryptosussiev2/static/js/main.28b47348.js.map",
+    "main.66ac9521.js.map": "/cryptosussiev2/static/js/main.66ac9521.js.map",
     "787.404e0b8d.chunk.js.map": "/cryptosussiev2/static/js/787.404e0b8d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.629a52ff.css",
-    "static/js/main.28b47348.js"
+    "static/js/main.66ac9521.js"
   ]
 }
